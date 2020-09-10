@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
+title: 少年
+subtitle: 香叶
 date:   2016-05-20 21:21:21 +0530
 categories: junk
 author: "Bart Simpson"
