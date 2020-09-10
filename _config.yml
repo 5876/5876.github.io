@@ -1,5 +1,5 @@
 # Site settings
-title: qing
+title: 清的技术博客
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://5876.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
+  fullname: 清
+  github: https://5876.github.io
   linkedin: 
   email: 2801034875@qq.com
 
