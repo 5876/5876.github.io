@@ -4,6 +4,12 @@ title: 留言板
 subtitle: 请畅所欲言
 ---
 
+<div>
+ <p>
+    留言板
+    </p>
+</div>
+
 <div class="about">
 <div class="about__devider">------------</div>
 <div class="about__text">
